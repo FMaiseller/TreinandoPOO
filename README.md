@@ -48,9 +48,10 @@ Este projeto foi desenvolvido com fins educacionais, com o objetivo de:
 Clone o repositório:
 ```bash
 git clone https://github.com/FMaiseller/TreinandoPOO.git
+```
 Abra o projeto na sua IDE de preferência
 Execute os exercícios individualmente conforme necessário
-```
+
 📌 Observações
 Os exercícios foram desenvolvidos como parte de uma prova/trabalho acadêmico
 O foco está na prática dos conceitos, não necessariamente em otimizações avançadas
