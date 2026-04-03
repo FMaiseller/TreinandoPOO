@@ -50,6 +50,7 @@ Este projeto foi desenvolvido com fins educacionais, com o objetivo de:
 git clone https://github.com/FMaiseller/TreinandoPOO.git
 ```
 2- Abra o projeto na sua IDE de preferência
+
 3- Execute os exercícios individualmente conforme necessário
 
 📌 Observações
